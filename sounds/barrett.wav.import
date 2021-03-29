@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/pdudegun.wav-c6ad590e08a95d4292a70c00ffe96199.sample"
+path="res://.import/barrett.wav-c40be50ca88c5ab8e569007fb446563d.sample"
 
 [deps]
 
-source_file="res://sounds/pdudegun.wav"
-dest_files=[ "res://.import/pdudegun.wav-c6ad590e08a95d4292a70c00ffe96199.sample" ]
+source_file="res://sounds/barrett.wav"
+dest_files=[ "res://.import/barrett.wav-c40be50ca88c5ab8e569007fb446563d.sample" ]
 
 [params]
 
