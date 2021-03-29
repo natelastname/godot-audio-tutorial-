@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pdudegun.wav-c6ad590e08a95d4292a70c00ffe96199.sample"
+
+[deps]
+
+source_file="res://sounds/pdudegun.wav"
+dest_files=[ "res://.import/pdudegun.wav-c6ad590e08a95d4292a70c00ffe96199.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
